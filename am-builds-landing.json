@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "title": "Bathroom Remodeling Los Angeles | AM Builds – 15% OFF",
+    "slug": "bathroom-remodeling-los-angeles",
+    "lang": "en",
+    "description": "AM Builds offers premium bathroom remodeling in Los Angeles. 5-star rated, licensed & insured. 15% OFF first project for new clients.",
+    "keywords": [
+      "bathroom remodeling Los Angeles",
+      "bathroom renovation LA",
+      "custom shower installation",
+      "tile flooring LA"
+    ]
+  },
+  "brand": {
+    "name": "AM Builds",
+    "tagline": "Premium Bathroom Remodeling · Los Angeles",
+    "website": "https://ambuildersca.com",
+    "instagram": "@ambuiltit",
+    "phone": "(818) 619-1535",
+    "email": "info@ambuildersca.com",
+    "license": "CSLB Licensed, Insured & Bonded",
+    "colors": {
+      "white": "#ffffff",
+      "orange": "#e39d60",
+      "orange2": "#f0b880",
+      "navy": "#0c3e72",
+      "navy2": "#083260",
+      "blue": "#4886d3",
+      "dark": "#333333"
+    },
+    "fonts": {
+      "primary": "Figtree",
+      "weights": [
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "source": "https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"
+    }
+  },
+  "offer": {
+    "headline": "Save 15% on Your First Project",
+    "discount": "15%",
+    "type": "New clients only",
+    "deadline": "2026-05-01",
+    "details": "Free estimate included · No pressure, no obligation",
+    "terms": "Valid for new clients on first project only. Cannot be combined with other offers."
+  },
+  "hero": {
+    "badge": "Los Angeles's #1 Bathroom Remodelers",
+    "heading": "Your Dream Bathroom Starts Here.",
+    "heading_highlight": "Starts Here.",
+    "subheading": "Transform your outdated bathroom into a custom, luxury space built to last. Premium craftsmanship. Zero shortcuts. Honest pricing.",
+    "trust_pills": [
+      "Licensed & Insured",
+      "Free Estimate",
+      "5-Star Rated"
+    ],
+    "background_photos": [
+      "bath1",
+      "bath3",
+      "bath5",
+      "bath2"
+    ],
+    "slideshow_interval_ms": 5000
+  },
+  "lead_form": {
+    "title": "Get Your Free Quote",
+    "subtitle": "60 seconds · No commitment · We call within 24 hrs",
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "placeholder": "Your Full Name",
+        "required": true
+      },
+      {
+        "name": "phone",
+        "type": "tel",
+        "placeholder": "Phone Number",
+        "required": true
+      },
+      {
+        "name": "scope",
+        "type": "select",
+        "placeholder": "What do you need?",
+        "required": true,
+        "options": [
+          "Full Bathroom Renovation",
+          "Shower or Tub Replacement",
+          "Custom Tile & Flooring",
+          "Vanity & Fixtures Upgrade",
+          "Lighting & Finishes",
+          "Not Sure Yet – Need Consultation"
+        ]
+      }
+    ],
+    "cta_text": "Claim My Free Estimate →",
+    "privacy_note": "We never share your info. No spam, ever.",
+    "action_url": "https://ambuildersca.com/contact"
+  },
+  "proof_bar": [
+    {
+      "value": "5.0 ★ Google",
+      "label": "Top Rated in LA"
+    },
+    {
+      "value": "Licensed",
+      "label": "CSLB Certified"
+    },
+    {
+      "value": "Fast Turnaround",
+      "label": "Weeks, Not Months"
+    },
+    {
+      "value": "No Hidden Fees",
+      "label": "Transparent Pricing"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "bath1",
+      "label": "Modern Master Suite",
+      "sub": "Hex tile · Freestanding tub · Glass enclosure",
+      "file": "bath1.jpg"
+    },
+    {
+      "id": "bath2",
+      "label": "Contemporary Spa Bath",
+      "sub": "Wood slat ceiling · Soaking tub",
+      "file": "bath2.jpg"
+    },
+    {
+      "id": "bath3",
+      "label": "Luxury White & Black",
+      "sub": "Cathedral ceiling · Custom tile",
+      "file": "bath3.jpg"
+    },
+    {
+      "id": "bath4",
+      "label": "Zen Natural Retreat",
+      "sub": "Floating vanity · Steam shower",
+      "file": "bath4.jpg"
+    },
+    {
+      "id": "bath5",
+      "label": "Full Marble Sanctuary",
+      "sub": "Floor-to-ceiling marble · LED niche",
+      "file": "bath5.jpg"
+    }
+  ],
+  "services": [
+    {
+      "name": "Full Bathroom Renovations",
+      "desc": "Complete transformations from top to bottom — new layout, fixtures, tile, lighting, and finishes."
+    },
+    {
+      "name": "Shower & Tub Installations",
+      "desc": "Walk-in showers, freestanding tubs, and custom wet areas built for everyday luxury."
+    },
+    {
+      "name": "Custom Tile & Flooring",
+      "desc": "Precision tile work in any pattern — from classic subway to large-format porcelain slabs."
+    },
+    {
+      "name": "Vanities & Storage",
+      "desc": "New vanity installations that maximize storage and elevate the overall look and feel."
+    },
+    {
+      "name": "Fixtures & Hardware",
+      "desc": "Faucets, towel bars, mirrors, and finishing details that make your bathroom cohesive."
+    },
+    {
+      "name": "Lighting & Finishes",
+      "desc": "Recessed lighting, vanity mirrors, accent fixtures — upgrades that transform how your bathroom feels."
+    }
+  ],
+  "why_us": [
+    {
+      "title": "Hands-On Ownership",
+      "desc": "Owners directly involved in every project — not salespeople handing off to unknown crews."
+    },
+    {
+      "title": "Clear Written Estimates",
+      "desc": "Detailed scope, realistic timeline, and honest pricing before any work begins."
+    },
+    {
+      "title": "Zero Shortcuts Policy",
+      "desc": "If it's worth doing, it's worth doing right the first time. No rushed jobs, no inferior materials."
+    },
+    {
+      "title": "Spotless Job Sites",
+      "desc": "We treat your home with respect — clean, organized, and professional throughout every stage."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "location": "West Hollywood, CA",
+      "rating": 5,
+      "text": "AM Builds completely transformed our master bathroom. The tile work was flawless, timeline accurate, and the team was respectful throughout. Worth every penny."
+    },
+    {
+      "name": "Carlos T.",
+      "location": "Pasadena, CA",
+      "rating": 5,
+      "text": "From the first phone call to the final walkthrough, communication was excellent. They stayed on budget, on schedule, and quality exceeded expectations."
+    },
+    {
+      "name": "Jennifer L.",
+      "location": "Glendale, CA",
+      "rating": 5,
+      "text": "They helped with design decisions without being pushy. The shower is stunning. Clean work, great crew, and they left my home immaculate every single day."
+    }
+  ],
+  "service_areas": [
+    "Los Angeles",
+    "Beverly Hills",
+    "Santa Monica",
+    "West Hollywood",
+    "Pasadena",
+    "Glendale",
+    "Burbank"
+  ],
+  "google_ads": {
+    "headlines": [
+      "Bathroom Remodeling Los Angeles",
+      "15% Off First Bathroom Remodel",
+      "Free Estimate — Licensed & Insured",
+      "Custom Showers, Tile & Vanities",
+      "Serving LA, Beverly Hills & More"
+    ],
+    "descriptions": [
+      "AM Builds delivers premium bathroom remodeling in LA. 5-star rated, licensed & insured. Get your free estimate today.",
+      "Save 15% on your first bathroom remodel. Transparent pricing, skilled craftsmanship, zero shortcuts. Call (818) 619-1535."
+    ],
+    "conversion_actions": [
+      "form_submission",
+      "phone_click",
+      "cta_button_click"
+    ],
+    "final_url": "https://ambuildersca.com/bathroom-remodeling-los-angeles"
+  },
+  "animations": {
+    "hero_entrance": [
+      "badge fadeDown 0.7s",
+      "h1 fadeUp 0.8s",
+      "sub fadeUp 0.8s",
+      "offer fadeUp 0.8s",
+      "form scaleIn 0.9s"
+    ],
+    "scroll_reveal": "IntersectionObserver — .rv (fade-up) and .sg (stagger children)",
+    "continuous": [
+      "strip marquee 22s",
+      "offer rings rotateSlow/rotateCCW",
+      "shimmer on CTA buttons"
+    ],
+    "interactions": [
+      "3D tilt on svc/why/review cards",
+      "parallax hero bg on scroll",
+      "ripple on form submit btn",
+      "hero photo slideshow 5s"
+    ]
+  }
+}
